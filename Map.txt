@@ -1,0 +1,10 @@
+// Save To Lacale Storge
+
+[1] chick If Item Is Avilabol
+    * true = Get Item From Locale Storge
+    * false = Create Object & Set Object In Locale Storge     
+
+[2] Create Empty Object Withe Working In Applacition
+
+[3] Create Function Withe Add To Locale Storge
+    * Save Full Word Withe Kay Is Data Now 
